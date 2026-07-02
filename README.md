@@ -16,7 +16,7 @@
      
 bash
       
-git clone https://github.com/KupriyanovKirill725/LinearApproximation.git
+git clone https://github.com/KupriyanovKirill725/LinearApproximation
      
 cd LinearApproximation
    
