@@ -4,10 +4,6 @@ import numpy as np
 from approximation import LinearApproximation
 
 def get_user_data():
-    """
-    Ручной ввод данных через консоль.
-    Возвращает списки x и y.
-    """
     print("\n" + "-" * 70)
     print("РУЧНОЙ ВВОД ДАННЫХ ДЛЯ АППРОКСИМАЦИИ")
     print("-" * 70)
