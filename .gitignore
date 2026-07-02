@@ -21,7 +21,3 @@ build/
 # OS
 .DS_Store
 Thumbs.db
-
-# Results
-results/
-*.txt
